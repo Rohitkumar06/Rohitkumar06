@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi , I'm Rohit<br>I'm currently Learning Full Stack Development<br>
+# 💫 Hii 👋 I'm Rohit
+I'm currently Learning Full Stack Development<br>
 
 
 # 💻 Tech Stack:
