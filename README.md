@@ -1,4 +1,4 @@
-# 💫 Hii 👋 I'm Rohit
+# Hii 👋 I'm Rohit
 I'm currently Learning Full Stack Development<br>
 
 
